@@ -156,6 +156,9 @@
   --tagMarkdownColor: #ffffff;
   --tagGithubactionBg: #167bff;
   --tagGithubactionColor: #141414;
+  --tagPythonBg:#f8d844;
+  --tagPythonColor:#000000;
+
 }
 
 * {
@@ -299,6 +302,10 @@ li {
 .tag-css {
   background: var(--tagCssBg);
   color: var(--tagCssColor);
+}
+.tag-python {
+  background: var(--tagPythonBg);
+  color: var(--tagPythonColor);
 }
 
 .tag-hackerrank {
