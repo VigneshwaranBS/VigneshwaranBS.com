@@ -13,7 +13,7 @@ AOS.init();
 //     rotateControl: false,
 //     fullscreenControl: false
 //   });
-//   const image = 'https://raw.githubusercontent.com/vikash2806/vikash2806_Portfolio/bf3f90d26eb1beb6041bd51e2a18e8bb369a377e/docs/assets/image/map-marker.svg';
+//   const image = 'https://raw.githubusercontent.com/vigneshwaranBS/vigneshwaranBS_Portfolio/bf3f90d26eb1beb6041bd51e2a18e8bb369a377e/docs/assets/image/map-marker.svg';
 //   const beachMarker = new google.maps.Marker({
 //     position: { lat: 11.47006207135922, lng: 78.35548061779133 },
 //     map,
