@@ -77,7 +77,7 @@ And compile the Sass file in the `docs/assets/css/style.scss` directory using Li
 
 
 ## Deployment 🚀
-hese instructions will get you a copy of the project up and running on a live system using firebase Hosting.
+These instructions will get you a copy of the project up and running on a live system using firebase Hosting.
 ## Feedback
 
 If you have any feedback, please reach out to us at bs.vigneshwaran@gmail.com
