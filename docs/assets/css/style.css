@@ -158,6 +158,8 @@
   --tagGithubactionColor: #141414;
   --tagPythonBg:#f8d844;
   --tagPythonColor:#000000;
+  --tagInternezy:#00e472;
+  --tagInternezyColor:#000000;
 
 }
 
@@ -331,6 +333,10 @@ li {
 .tag-githubaction {
   background: var(--tagGithubactionBg);
   color: var(--tagGithubactionColor);
+}
+.tag-internezy{
+  background: var(--tagInternezy);
+  color: var(--tagInternezyColor);
 }
 
 .dots {
